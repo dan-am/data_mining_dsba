@@ -23,3 +23,4 @@ jsonschema>=3.2.0
 requests>=2.25.1 
 # subprocess>=0.2.9 
 ollama>=0.0.1
+missingno>=0.4.2
